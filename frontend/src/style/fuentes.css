@@ -1,0 +1,1143 @@
+/* Add styles JOBG */
+.card-img {
+    height: 100%;
+}
+
+.job-padding {
+    padding-top: 30px;
+}
+
+.uploader {
+    height: 100px !important;
+}
+
+.botton-padding {
+    padding-top: 50px;
+}
+
+.react-bs-table-bordered {
+    border: 1px solid #fff !important;
+    border-radius: 5px;
+}
+
+.uk-card-job {
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+    background: #fff0 !important;
+    color: #666 !important;
+    -webkit-box-shadow: 0 1px 10px rgb(244, 153, 45) !important;
+    box-shadow: 0 1px 10px rgb(244, 153, 45) !important;
+}
+
+/* hasta aqui */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+.fuente {
+    top: 100px;
+    left: 296px;
+    width: 400px;
+    height: 0px;
+    text-align: left;
+    font: normal normal medium 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.fuente_header_table {
+    top: 274px;
+    left: 1171px;
+    height: 24px;
+    letter-spacing: 0px;
+    color: #227093;
+    opacity: 1;
+}
+
+.fuente_campo_nombre {
+    top: 327px;
+    left: 685px;
+    width: 170px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.fuente_campo_email {
+    top: 428px;
+    left: 685px;
+    width: 170px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.fuente_campo_usuario {
+    top: 327px;
+    left: 1111px;
+    width: 56px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.fuente_campo_rol {
+    top: 428px;
+    left: 1111px;
+    width: 150px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.fuente_campo_permiso {
+    top: 529px;
+    left: 685px;
+    width: 68px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+/*Canal de ventas*/
+
+.canal_title {
+    top: 100px;
+    left: 296px;
+    width: 346px;
+    height: 39px;
+
+    text-align: left;
+    font: normal normal medium 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.canal_title_create {
+    top: 100px;
+    left: 296px;
+    width: 346px;
+    height: 39px;
+
+    text-align: left;
+    font: normal normal medium 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.canal_campo_nombre {
+    top: 327px;
+    left: 685px;
+    width: 100px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.canal_campo_porcentaje {
+    top: 327px;
+    left: 1111px;
+    width: 230px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+/*Perfil*/
+
+.perfil_create {
+    top: 100px;
+    left: 296px;
+    width: 99px;
+    height: 39px;
+    text-align: left;
+    font: normal normal medium 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.perfil_nombre {
+    top: 327px;
+    left: 685px;
+    width: 200px;
+    height: 21px;
+    padding-left: 18px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.perfil_email {
+    top: 428px;
+    left: 685px;
+    width: 200px;
+    height: 21px;
+    padding-left: 18px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.perfil_genero {
+    top: 529px;
+    left: 685px;
+    width: 100px;
+    height: 21px;
+    padding-left: 18px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.perfil_usuario {
+    top: 327px;
+    left: 1111px;
+    width: 100px;
+    height: 21px;
+    padding-left: 18px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.perfil_telefono {
+    top: 428px;
+    left: 1111px;
+    width: 100px;
+    height: 21px;
+    padding-left: 18px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.perfil_avatar {
+    top: 529px;
+    left: 1111px;
+    width: 100px;
+    height: 21px;
+    padding-left: 18px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.box_update {
+    top: 560px;
+    left: 1103px;
+    width: 350px;
+    height: 73px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #727981;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+/*Linea de negocios*/
+
+.lnegocios_title {
+    top: 100px;
+    left: 296px;
+    width: 281px;
+    height: 39px;
+    text-align: left;
+    font: normal normal medium 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.lnegocios_nueva_title {
+    top: 100px;
+    left: 296px;
+    width: 366px;
+    height: 39px;
+    text-align: left;
+    font: normal normal medium 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.lnegocios_nueva_nombre {
+    top: 327px;
+    left: 685px;
+    width: 96px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.lnegocios_nueva_desc {
+    top: 327px;
+    left: 1111px;
+    width: 85px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+/*EMBUDO DE VENTAS*/
+
+.enbudo_title {
+    top: 100px;
+    left: 296px;
+    width: 287px;
+    height: 39px;
+    text-align: left;
+    font: normal normal medium 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.embudo_nuevo_title {
+    top: 100px;
+    left: 296px;
+    width: 393px;
+    height: 39px;
+    text-align: left;
+    font: normal normal medium 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.embudo_nombre {
+    top: 327px;
+    left: 685px;
+    width: 120px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.embudo_etapa {
+    top: 327px;
+    left: 1111px;
+    width: 41px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.embudo_porcentaje_linea {
+    top: 428px;
+    left: 685px;
+    width: 150px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.embudo_porcentaje_etapa {
+    top: 428px;
+    left: 1111px;
+    width: 150px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.embudo_linea_negocio {
+    top: 529px;
+    left: 685px;
+    width: 150px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.embudo_canal_venta {
+    top: 529px;
+    left: 1111px;
+    width: 150px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+/*Compañias*/
+
+.companias_title {
+    top: 100px;
+    left: 296px;
+    width: 170px;
+    height: 39px;
+    text-align: left;
+    font: normal normal medium 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.companias_nueva_title {
+    top: 100px;
+    left: 296px;
+    width: 255px;
+    height: 39px;
+    text-align: left;
+    font: normal normal medium 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.companias_nombre {
+    top: 327px;
+    left: 685px;
+    width: 150px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.companias_industria {
+    top: 428px;
+    left: 685px;
+    width: 64px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.compania_ciudad {
+    top: 529px;
+    left: 685px;
+    width: 50px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.compania_pagina {
+    top: 629px;
+    left: 685px;
+    width: 115px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.compania_descripcion {
+    top: 327px;
+    left: 1111px;
+    width: 85px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.compania_telefono {
+    top: 428px;
+    left: 1111px;
+    width: 62px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.compania_empleados {
+    top: 529px;
+    left: 1111px;
+    width: 160px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.compania_facebook {
+    top: 629px;
+    left: 1111px;
+    width: 124px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.compania_link {
+    top: 629px;
+    left: 685px;
+    width: 115px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+/*Industrias*/
+.industrias_title {
+    top: 100px;
+    left: 296px;
+    width: 173px;
+    height: 39px;
+    margin-left: 50px;
+    text-align: left;
+    font: normal normal medium 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.ingresos_anual {
+    top: 629px;
+    left: 685px;
+    width: 150px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.industrias_nueva_title {
+    top: 100px;
+    left: 296px;
+    height: 39px;
+    margin-left: 50px;
+    text-align: left;
+    font: normal normal normal 29px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.industrias_nombre {
+    top: 327px;
+    left: 898px;
+    width: 125px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+/*contactos*/
+.contacts_title {
+    top: 100px;
+    left: 296px;
+    height: 39px;
+    margin-left: 50px;
+    text-align: left;
+    font: normal normal normal 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.contacts_nuevo_title {
+    top: 100px;
+    left: 296px;
+    width: 258px;
+    height: 39px;
+    margin-left: 50px;
+    text-align: left;
+    font: normal normal normal 29px/30px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.contacts_nombre {
+    top: 327px;
+    left: 685px;
+    width: 125px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.contacts_telefono {
+    top: 428px;
+    left: 685px;
+    /* width: 129px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.contacts_puesto {
+    top: 529px;
+    left: 685px;
+    width: 51px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.contacts_tipo_cliente {
+    top: 629px;
+    left: 685px;
+    /* width: 105px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.contacts_mail {
+    top: 327px;
+    left: 1111px;
+    width: 46px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.contacts_tel_empresa {
+    top: 428px;
+    left: 1111px;
+    /* width: 129px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.contacts_estado_ciclovida {
+    top: 428px;
+    left: 1111px;
+    /* width: 129px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.contacts_nombre_empresa {
+    top: 529px;
+    left: 1111px;
+    width: 124px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.contacts_propietario {
+    top: 629px;
+    left: 1111px;
+    width: 148px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+/*TIPO DE CAMBIO*/
+.tipocambio_title {
+    top: 100px;
+    left: 296px;
+    width: 231px;
+    height: 39px;
+    margin-left: 50px;
+    text-align: left;
+    font: normal normal normal 29px/30px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.tipocambio_nuevo_title {
+    top: 100px;
+    left: 296px;
+    width: 337px;
+    height: 39px;
+    margin-left: 50px;
+    text-align: left;
+    font: normal normal normal 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.tipocambio_moneda {
+    top: 327px;
+    left: 685px;
+    width: 58px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.tipocambio_tcambio {
+    top: 327px;
+    left: 1111px;
+    /* width: 110px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+/*metas anuales*/
+.anual_goals_title {
+    top: 100px;
+    left: 296px;
+    width: 238px;
+    height: 39px;
+    text-align: left;
+    font: normal normal normal 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+    margin-left: 50px;
+}
+.anual_goals_nueva {
+    top: 100px;
+    left: 296px;
+    /* width: 286px; */
+    height: 39px;
+    margin-left: 50px;
+    text-align: left;
+    font: normal normal normal 29px/30px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.anual_goals_anio {
+    top: 428px;
+    left: 685px;
+    /* width: 90px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.anual_goals_metanual {
+    top: 529px;
+    left: 685px;
+    width: 80px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.anual_info_general {
+    top: 369px;
+    left: 754px;
+    width: 182px;
+    height: 21px;
+    text-align: left;
+    font: normal normal normal 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #ffffff !important;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.anual_metasportrimestre {
+    top: 369px;
+    left: 1188px;
+    width: 179px;
+    height: 21px;
+    text-align: left;
+    font: normal normal normal 16px/20px "Roboto";
+    letter-spacing: 0px;
+    color: #ffffff !important;
+    text-transform: uppercase;
+    opacity: 1;
+}
+.anual_goals_primer_trimestre {
+    top: 428px;
+    left: 1111px;
+    /* width: 118px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #227093;
+    opacity: 1;
+}
+.anual_goals_primer_porcentaje {
+    top: 461px;
+    left: 1111px;
+    width: 78px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.anual_goals_primer_equivalente {
+    top: 461px;
+    left: 1296px;
+    /* width: 125px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.anual_goals_segundo_trimestre {
+    top: 561px;
+    left: 1111px;
+    /* width: 133px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #227093;
+    opacity: 1;
+}
+.anual_goals_segundo_porcentaje {
+    top: 594px;
+    left: 1111px;
+    width: 78px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.anual_goals_segundo_equivalente {
+    top: 594px;
+    left: 1296px;
+    /* width: 125px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.anual_goals_tercer_trimestre {
+    top: 694px;
+    left: 1111px;
+    /* width: 114px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #227093;
+    opacity: 1;
+}
+.anual_goals_tercer_porcentaje {
+    top: 727px;
+    left: 1111px;
+    width: 78px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.anual_goals_tercer_equivalente {
+    top: 727px;
+    left: 1296px;
+    /* width: 125px; */
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.anual_goals_linea_negocio {
+    top: 428px;
+    left: 685px;
+    width: 130px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.anual_goals_porcentaje {
+    top: 428px;
+    left: 1111px;
+    width: 78px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.anuals_goals_equivalente {
+    top: 428px;
+    left: 1296px;
+    width: 125px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.reportesem_title {
+    top: 60px;
+    left: 296px;
+    width: 277px;
+    height: 39px;
+    text-align: left;
+    font: normal normal normal 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.reportesem_meta_anual {
+    top: 247px;
+    left: 349px;
+    width: 100px;
+    height: 26px;
+    font: normal normal bold 20px/30px "Roboto";
+    text-align: left;
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.reportesem_meta_mes {
+    top: 247px;
+    left: 349px;
+    height: 26px;
+    font: normal normal bold 20px/30px "Roboto";
+    text-align: left;
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.reportesem_numeros {
+    top: 247px;
+    left: 349px;
+    height: 26px;
+    font: normal normal bold 20px/30px "Roboto";
+    text-align: left;
+    letter-spacing: 0px;
+    color: #227093;
+    opacity: 1;
+}
+.reportesem_numeros2 {
+    top: 247px;
+    left: 349px;
+    height: 26px;
+    font: normal normal bold 20px/20px "Roboto";
+    text-align: left;
+    letter-spacing: 0px;
+    color: #227093;
+    opacity: 1;
+}
+
+.reportesem_sub-texto {
+    top: 247px;
+    left: 349px;
+    height: 26px;
+    font: normal normal normal 18px/30px "Roboto";
+    text-align: left;
+    letter-spacing: 0px;
+    color: #227093;
+    opacity: 1;
+}
+.reportesem_ventas_semana {
+    top: 458px;
+    left: 354px;
+    width: 186px;
+    height: 26px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.reportesem_restante_anual {
+    top: 418px;
+    left: 1137px;
+    width: 108px;
+    height: 21px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #bb2205;
+    opacity: 1;
+}
+
+.reportesem_lead_title {
+    top: 60px;
+    left: 296px;
+    width: 277px;
+    height: 39px;
+    text-align: left;
+    font: normal normal normal 30px/36px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.reportesem_leads_semanal {
+    top: 247px;
+    left: 349px;
+    height: 26px;
+    font: normal normal bold 18px/30px "Roboto";
+    text-align: left;
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.reportesem_total_leads {
+    top: 687px;
+    left: 830px;
+    width: 45px;
+    height: 26px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.reportesem_leads_posibilidad {
+    top: 247px;
+    left: 349px;
+    height: 26px;
+    font: normal normal bold 18px/30px "Roboto";
+    text-align: left;
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.reportelead_cards_promedio {
+    top: 247px;
+    left: 349px;
+    height: 26px;
+    font: normal normal bold 15px/20px "Roboto";
+    text-align: left;
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.reportesem_total_posibilidad {
+    top: 687px;
+    left: 1609px;
+    width: 45px;
+    height: 26px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.reportesem_noticias {
+    top: 1049px;
+    left: 304px;
+    width: 137px;
+    height: 21px;
+    text-align: left;
+    font: normal normal bold 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+
+.presupuesto_subtitle {
+    top: 247px;
+    left: 349px;
+    font: normal normal bold 15px/30px "Roboto";
+    text-align: left;
+    letter-spacing: 0px;
+    color: #33313b;
+    opacity: 1;
+}
+.presupuesto_subtitle_number {
+    top: 247px;
+    left: 349px;
+    font: normal normal bold 15px/30px "Roboto";
+    text-align: left;
+    letter-spacing: 0px;
+    color: #227093;
+    opacity: 1;
+}
+
+.anual_goals_linea_negocio_card {
+    top: 369px;
+    left: 1188px;
+    height: 21px;
+    text-align: left;
+    font: normal normal normal 16px/19px "Roboto";
+    letter-spacing: 0px;
+    color: #ffffff !important;
+    text-transform: uppercase;
+    opacity: 1;
+}

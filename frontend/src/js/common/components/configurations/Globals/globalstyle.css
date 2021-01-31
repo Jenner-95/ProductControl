@@ -1,0 +1,19 @@
+.global-form {
+    background: #e1e1e1 0% 0% no-repeat padding-box;
+    border: none;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 7%;
+}
+
+.global-div {
+    background: #e1e1e1 0% 0% no-repeat padding-box;
+    border: 1px solid #f4991a;
+    border-radius: 5px;
+    box-shadow: 2px 3px 7px #33313b4d;
+    opacity: 1;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 70px;
+    /* margin: 0px 50px 0px 50px; */
+}

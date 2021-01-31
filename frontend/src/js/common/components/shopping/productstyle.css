@@ -1,0 +1,99 @@
+.contact-form {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 8%;
+    padding-bottom: 50px;
+}
+
+.contact-div {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    box-shadow: 2px 3px 7px #ffffff;
+
+    margin-left: 50px;
+    margin-right: 50px;
+    margin: 0px 50px 0px 50px;
+}
+
+.contact-divprincipal {
+    background: #e1e1e1;
+    border: none;
+}
+
+.titulo-contact {
+    margin-left: 50px;
+}
+
+.contact-form-input {
+    margin-top: 0px;
+    width: 80%;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 0.5px solid #727981;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.contact-form-select {
+    margin-top: 0px;
+    width: 80%;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 0.5px solid #727981;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.contacts_form_input_tipo_cliente .css-1ajl57w-control {
+    margin-top: 0px;
+    width: 80%;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 0.5px solid #727981;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.contact-divprincipal .link-contact a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.contact-button-guardar {
+    padding-left: 11%;
+    padding-top: 0.4%;
+}
+.contact-button-cancelar {
+    padding-left: 11%;
+    padding-top: 0.4%;
+}
+.contact-buttons .uk-grid {
+    padding-left: 0px;
+}
+
+@media screen and (max-width: 768px) {
+    .contact-form .uk-child-width-1-2\@s > * {
+        width: 100%;
+    }
+
+    .contact-form-input {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 90%;
+    }
+    /* .contact-buttons{
+        width: 100%;
+        display: block; 
+    } */
+}
+
+.contact-buttons .uk-button-small {
+    padding: 5px 5px 15px 50px;
+    line-height: 28px;
+    font-size: 0.875rem;
+}
+
+.list-button-contact .uk-button-small {
+    padding: 5px 5px 15px 10px;
+    line-height: 28px;
+    font-size: 0.875rem;
+}

@@ -1,0 +1,46 @@
+/* 
+
+.grid-table-head thead tr th{
+    text-align: center !important;
+    color:#227093;
+    text-transform: uppercase;
+    padding-top: 10px;
+    border:none;
+    padding-bottom: 10px;
+}
+
+.grid-table-head {
+    border: none;
+} */
+
+/* .grid-table-head thead tr th{
+    text-align: center !important;
+    color:#227093;
+    text-transform: uppercase;
+} */
+
+.react-bs-container-header {
+    background-color: #ffffff;
+    border: 1px solid #212529;
+    border-radius: 5px;
+    text-transform: uppercase;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center !important;
+}
+
+.icon_svg {
+    width: 25px;
+    height: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.table tbody tr:hover > td:first-child {
+    /* .table tbody tr td .d-flex:hover,
+.table tbody tr td .d-flex:focus { */
+    filter: invert(7%) sepia(50%) saturate(8%) hue-rotate(100deg)
+        brightness(1000%) contrast(100%);
+}

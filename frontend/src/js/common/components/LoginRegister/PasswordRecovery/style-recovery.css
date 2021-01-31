@@ -1,0 +1,28 @@
+.label-style{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color:#33313B;
+    font-size: 16px;
+    opacity: 1;
+
+}
+.warning h1{
+    font-size: 15px;
+    font-weight: bold;
+    color: #33313B;
+    justify-content: center;
+    display: flex;
+}
+.style-image-recovery{
+    width: 420px;
+}
+.style-icon-warning{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    margin-bottom: 2rem;
+}

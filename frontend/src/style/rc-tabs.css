@@ -1,0 +1,32 @@
+.rc-tabs-tab {
+    background-color: #f2f2f2;
+}
+.rc-tabs-nav-wrap {
+    background-color: #c71818;
+}
+.rc-tabs-tab-active,
+.rc-tabs-tab-active {
+    color: white !important;
+    background-color: #227093;
+    border-bottom: 2px solid;
+}
+.rc-tabs-ink-bar {
+    background-color: #227093;
+}
+
+.rc-tabs-top .rc-tabs-tab {
+    margin: 0px;
+    padding: 10px 50px 10px 50px;
+    color: #000000;
+}
+.rc-tabs-tab:hover {
+    color: #227093;
+}
+.rc-tabs-top {
+    border-bottom: none;
+}
+
+.rc-tabs-bottom .rc-tabs-tab {
+    padding-left: 30px;
+    padding-right: 30px;
+}
